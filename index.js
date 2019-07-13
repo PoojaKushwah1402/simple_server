@@ -1,3 +1,5 @@
+/*how to run :- npm run start-server */
+
 var http = require('http');
 var i = 0;
 //create a server object:
